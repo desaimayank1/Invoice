@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "kF8ZCGoMtxayaYdytgE9rMV17aG1wk9refR4yu71is0=",
+  "Source": "InvoiceApp",
+  "BasePath": "_content/InvoiceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "InvoiceApp\\wwwroot",
+      "Source": "InvoiceApp",
+      "ContentRoot": "C:\\Users\\desai\\OneDrive\\Desktop\\thinkbridge\\InvoiceApp\\wwwroot\\",
+      "BasePath": "_content/InvoiceApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\desai\\OneDrive\\Desktop\\thinkbridge\\InvoiceApp\\wwwroot\\index.html",
+      "SourceId": "InvoiceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\desai\\OneDrive\\Desktop\\thinkbridge\\InvoiceApp\\wwwroot\\",
+      "BasePath": "_content/InvoiceApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\desai\\OneDrive\\Desktop\\thinkbridge\\InvoiceApp\\wwwroot\\script.js",
+      "SourceId": "InvoiceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\desai\\OneDrive\\Desktop\\thinkbridge\\InvoiceApp\\wwwroot\\",
+      "BasePath": "_content/InvoiceApp",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\desai\\OneDrive\\Desktop\\thinkbridge\\InvoiceApp\\wwwroot\\styles.css",
+      "SourceId": "InvoiceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\desai\\OneDrive\\Desktop\\thinkbridge\\InvoiceApp\\wwwroot\\",
+      "BasePath": "_content/InvoiceApp",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
